@@ -1,0 +1,113 @@
+export const countriesSelect = [
+  { contLab: "US", contVal: "United States" },
+  { contLab: "AFG", contVal: "Afghanistan" },
+ // { contLab: "ALB", contVal: "Albania" },
+  //   { contLab: "ANG", contVal: "Angola" },
+  //   { contLab: "ARG", contVal: "Argentina" },
+  { contLab: "ARM", contVal: "Armenia" },
+  { contLab: "AUS", contVal: "Australia" },
+  //   { contLab: "", contVal: "" },
+
+  //<option value="Austria"> Austria </option>
+  // 								<option value="Azerbaijan"> Azerbaijan </option>
+  // 								<option value="Bahrain"> Bahrain </option>
+  // 								<option value="Bangladesh"> Bangladesh </option>
+  // 								<option value="Belarus"> Belarus </option>
+  // 								<option value="Belgium"> Belgium </option>
+  // 								<option value="Brazil"> Brazil </option>
+  // 								<option value="Canada"> Canada </option>
+  // 								<option value="Chile"> Chile </option>
+  // 								<option value="China"> China </option>
+  // 								<option value="Colombia"> Colombia </option>
+  // 								<option value="Croatia"> Croatia </option>
+  // 								<option value="Cuba"> Cuba </option>
+  // 								<option value="Cyprus"> Cyprus </option>
+  // 								<option value="Czech Republic"> Czech Republic </option>
+  // 								<option value="Denmark"> Denmark </option>
+  // 								<option value="Egypt"> Egypt </option>
+  // 								<option value="Estonia"> Estonia </option>
+  // 								<option value="Ethiopia"> Ethiopia </option>
+  // 								<option value="Finland"> Finland </option>
+  // 								<option value="France"> France </option>
+  // 								<option value="Germany"> Germany </option>
+  // 								<option value="Greece"> Greece </option>
+  // 								<option value="Greenland"> Greenland </option>
+  // 								<option value="Hong Kong"> Hong Kong </option>
+  // 								<option value="Hungary"> Hungary </option>
+  // 								<option value="Iceland"> Iceland </option>
+  // 								<option value="India"> India </option>
+  // 								<option value="Indonesia"> Indonesia </option>
+  // 								<option value="Iran"> Iran </option>
+  // 								<option value="Iraq"> Iraq </option>
+  // 								<option value="Ireland"> Ireland </option>
+  // 								<option value="Israel"> Israel </option>
+  // 								<option value="Italy"> Italy </option>
+  // 								<option value="Japan"> Japan </option>
+  // 								<option value="Jordan"> Jordan </option>
+  // 								<option value="Kenya"> Kenya </option>
+  // 								<option value="South Korea"> South Korea </option>
+  // 								<option value="Kuwait"> Kuwait </option>
+  // 								<option value="Kyrgyzstan"> Kyrgyzstan </option>
+  // 								<option value="Latvia"> Latvia </option>
+  // 								<option value="Lebanon"> Lebanon </option>
+  // 								<option value="Libya"> Libya </option>
+  // 								<option value="Lithuania"> Lithuania </option>
+  // 								<option value="Macedonia"> Macedonia </option>
+  // 								<option value="Malaysia"> Malaysia </option>
+  // 								<option value="Maldives"> Maldives </option>
+  // 								<option value="Mali"> Mali </option>
+  // 								<option value="Malta"> Malta </option>
+  // 								<option value="Mauritius"> Mauritius </option>
+  // 								<option value="Mexico"> Mexico </option>
+  // 								<option value="Moldova"> Moldova </option>
+  // 								<option value="Mongolia"> Mongolia </option>
+  // 								<option value="Montenegro"> Montenegro </option>
+  // 								<option value="Morocco"> Morocco </option>
+  // 								<option value="Myanmar"> Myanmar </option>
+  // 								<option value="Nepal"> Nepal </option>
+  // 								<option value="Netherlands"> Netherlands </option>
+  // 								<option value="New Zealand"> New Zealand </option>
+  // 								<option value="Nigeria"> Nigeria </option>
+  // 								<option value="Norway"> Norway </option>
+  // 								<option value="Oman"> Oman </option>
+  // 								<option value="Pakistan"> Pakistan </option>
+  // 								<option value="Palestine"> Palestine </option>
+  // 								<option value="Panama"> Panama </option>
+  // 								<option value="Philippines"> Philippines </option>
+  // 								<option value="Poland"> Poland </option>
+  // 								<option value="Portugal"> Portugal </option>
+  // 								<option value="Qatar"> Qatar </option>
+  // 								<option value="Romania"> Romania </option>
+  // 								<option value="Russia"> Russia </option>
+  // 								<option value="Saudi Arabia"> Saudi Arabia </option>
+  // 								<option value="Senegal"> Senegal </option>
+  // 								<option value="Serbia"> Serbia </option>
+  // 								<option value="Singapore"> Singapore </option>
+  // 								<option value="Slovakia"> Slovakia </option>
+  // 								<option value="Slovenia"> Slovenia </option>
+  // 								<option value="Somalia"> Somalia </option>
+  // 								<option value="South Africa"> South Africa </option>
+  // 								<option value="South Sudan"> South Sudan </option>
+  // 								<option value="Spain"> Spain </option>
+  // 								<option value="Sri Lanka"> Sri Lanka </option>
+  // 								<option value="Sudan"> Sudan </option>
+  // 								<option value="Sweden"> Sweden </option>
+  // 								<option value="Switzerland"> Switzerland </option>
+  // 								<option value="Syria"> Syria </option>
+  // 								<option value="Taiwan"> Taiwan </option>
+  // 								<option value="Tajikistan"> Tajikistan </option>
+  // 								<option value="Tanzania"> Tanzania </option>
+  // 								<option value="Thailand"> Thailand </option>
+  // 								<option value="Tunisia"> Tunisia </option>
+  // 								<option value="Turkey"> Turkey </option>
+  // 								<option value="Turkmenistan"> Turkmenistan </option>
+  // 								<option value="Uganda"> Uganda </option>
+  // 								<option value="Ukraine"> Ukraine </option>
+  // 								<option value="United Arab Emirates"> United Arab Emirates </option>
+  // 								<option value="United Kingdom"> United Kingdom </option>
+  // 								<option value="Uzbekistan"> Uzbekistan </option>
+  // 								<option value="Vietnam"> Vietnam </option>
+  // 								<option value="Yemen"> Yemen </option>
+  // 								<option value="Zambia"> Zambia </option>
+  // 								<option value="Zimbabwe"> Zimbabwe </option>
+];
